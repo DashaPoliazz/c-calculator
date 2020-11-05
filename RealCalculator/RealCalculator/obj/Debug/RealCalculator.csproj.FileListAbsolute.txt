@@ -1,0 +1,15 @@
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\bin\Debug\RealCalculator.exe.config
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\bin\Debug\RealCalculator.exe
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\bin\Debug\RealCalculator.pdb
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\obj\Debug\RealCalculator.csprojAssemblyReference.cache
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\obj\Debug\App.g.cs
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\obj\Debug\RealCalculator_MarkupCompile.cache
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\obj\Debug\RealCalculator_MarkupCompile.lref
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\obj\Debug\MainWindow.baml
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\obj\Debug\RealCalculator.g.resources
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\obj\Debug\RealCalculator.Properties.Resources.resources
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\obj\Debug\RealCalculator.csproj.GenerateResource.cache
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\obj\Debug\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\obj\Debug\RealCalculator.exe
+C:\Users\dasha\Desktop\c# proj\RealCalculator\RealCalculator\obj\Debug\RealCalculator.pdb

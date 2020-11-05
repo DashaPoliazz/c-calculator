@@ -1,0 +1,19 @@
+﻿<Window x:Class="RealCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RealCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox Name="TextBoxValue1" HorizontalAlignment="Left" Height="112" Margin="56,68,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="133"/>
+        <TextBox Name="TextBoxSymbol" HorizontalAlignment="Left" Height="58" Margin="189,95,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="126"/>
+        <TextBox Name="TextBoxValue2" HorizontalAlignment="Left" Height="112" Margin="315,68,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="133"/>
+        <Button Name="ButtonPlus" Content="+" HorizontalAlignment="Left" Height="70" Margin="56,185,0,0" VerticalAlignment="Top" Width="87"/>
+        <Button Name="ButtonMinus" Content="-" HorizontalAlignment="Left" Height="70" Margin="161,185,0,0" VerticalAlignment="Top" Width="87"/>
+        <Button Name="ButtonMultiply" Content="*" HorizontalAlignment="Left" Height="70" Margin="253,185,0,0" VerticalAlignment="Top" Width="87"/>
+        <Button Name="ButtonDivide" Content="/" HorizontalAlignment="Left" Height="70" Margin="361,185,0,0" VerticalAlignment="Top" Width="87"/>
+        <TextBox Name="TextBoxResult" HorizontalAlignment="Left" Height="86" Margin="189,271,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="126"/>
+    </Grid>
+</Window>
